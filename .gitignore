@@ -1,0 +1,5 @@
+# locally ignore .out files
+*.out
+
+#locally ignore temp folders
+tmp/*
